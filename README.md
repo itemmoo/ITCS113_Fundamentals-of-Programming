@@ -1,6 +1,6 @@
 # ITCS113: Fundamentals of Programming
 
-Coursework, lab assignments, and programming exercises for **ITCS113 Fundamentals of Programming**, Faculty of Information and Communication Technology (ICT), Mahidol University (MUICT 137).
+Coursework, lab assignments, and programming exercises for **ITCS113 Fundamentals of Programming**, Faculty of Information and Communication Technology (ICT), Mahidol University (MUICT 18).
 
 ---
 
