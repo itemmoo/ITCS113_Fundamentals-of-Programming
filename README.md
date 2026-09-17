@@ -8,7 +8,7 @@ Coursework, lab assignments, and programming exercises for **ITCS113 Fundamental
 
 > **⚠️ Academic Integrity & Access Restriction**  
 > This repository is maintained for educational reference and tracking personal academic progress only.  
-> * **Intended Audience:** ICT Mahidol Students (MUICT 137).  
+> * **Intended Audience:** ICT Mahidol Students (MUICT 18).  
 > * **Academic Honor Code:** Do not directly copy-paste code for active assignments or graded evaluations. Use these solutions responsibly to understand algorithmic logic, debugging techniques, and C programming fundamentals.
 
 ---
