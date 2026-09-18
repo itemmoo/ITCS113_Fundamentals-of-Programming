@@ -12,7 +12,7 @@ int main(){
     for(int i =0;i<n;i++){
         scanf("%d",&arr[i]);
     }
-    int max=arr[0],min=arr[1];
+    int max=arr[0],min=1e9;
     for(int i=2;i<n;i+=2){
         if(arr[i]>max){
             max=arr[i];
