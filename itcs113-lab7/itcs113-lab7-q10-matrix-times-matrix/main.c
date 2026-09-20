@@ -5,7 +5,6 @@ PASSWORD: Vv3sn3b
 EXERCISEID: itcs113-lab7-q10-matrix-times-matrix
 */
 #include <stdio.h>
-
 int main(void) {
     int n,m,p;
     scanf("%d %d %d",&n,&m,&p);
