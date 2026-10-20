@@ -20,8 +20,8 @@ int main(void){
             sum += arr[j][i];
         }
         printf("%d",sum);
-        if (i<m-1) {
-            printf(" ");
+        if(i<m-1){
+            printf(" ",sum);
         }
     }
 
